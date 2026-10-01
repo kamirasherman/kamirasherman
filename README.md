@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kamira 👋
 
-<!--
-**kamirasherman/kamirasherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity & IAM Professional** · San Antonio, TX
 
-Here are some ideas to get you started:
+M.S. in Information Technology (Cybersecurity), Capella University — September 2026.
+I bring 10+ years of healthcare operations, support, and data analytics experience
+into cybersecurity, with a focus on identity & access management, governance, and risk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 **Focus:** IAM & access governance · security operations · GRC / audit readiness · analytics for risk
+📜 **Certifications:** CompTIA CySA+ · Security+ · Network+ · PMP · Lean Six Sigma Green Belt · AZ-900 · AI-900
+💼 **Currently:** Care Team Associate (Technical Support), Accenture
+
+## 📂 Portfolio
+
+🔧 **[IT Support & Cybersecurity Labs](https://github.com/kamirasherman/it-support-cybersecurity-labs)** — 7 hands-on labs & case studies: ServiceNow ticketing, Windows troubleshooting, Active Directory, firewall vulnerability assessment, IAM modernization, security proposal
+
+🔐 **[IAM Access Governance Analytics](https://github.com/kamirasherman/iam-access-governance-analytics)** — access reviews, least-privilege analysis, and data-driven access decisions
+
+📊 **[Expense Audit Analytics](https://github.com/kamirasherman/expense-audit-analytics)** — SQL-based audit detection: duplicates, outliers, threshold gaming, and anomaly findings with evidence → risk → recommendation
+
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/kamirasherman)
