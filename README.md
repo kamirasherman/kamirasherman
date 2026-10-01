@@ -29,7 +29,7 @@ Hands-on projects covering ServiceNow ticketing, Windows troubleshooting, Active
 🔑 **[IAM Access Governance Analytics](https://github.com/kamirasherman/iam-access-governance-analytics)**  
 Identity and access analysis focused on access reviews, least privilege, governance, and data-driven access decisions.
 
-📊 **[Expense Audit Analytics](https://github.com/kamirasherman/expense-audit-analytics)**  
+📊 **[Expense Audit Analytics](https://github.com/kamirasherman/Expense-Audit-Analytics)**  
 SQL-based analysis identifying duplicates, outliers, threshold patterns, and other audit risks, translating findings into actionable recommendations.
 
 ## 🎯 What I'm Building Toward
