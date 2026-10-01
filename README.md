@@ -18,6 +18,8 @@ into cybersecurity, with a focus on identity & access management, governance, an
 
 📊 **[Expense Audit Analytics](https://github.com/kamirasherman/expense-audit-analytics)** — SQL-based audit detection: duplicates, outliers, threshold gaming, and anomaly findings with evidence → risk → recommendation
 
+📋 **[Project Management](https://github.com/kamirasherman/phish-guard-capstone)** — delivery, coordination, and process improvement work
+<!-- Replace the repo name above with your actual PM repo name if different -->
 
 ## 📫 Connect
 
