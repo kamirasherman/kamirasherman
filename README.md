@@ -1,26 +1,41 @@
 # Hi, I'm Kamira 👋
 
-**Cybersecurity & IAM Professional** · San Antonio, TX
+**Technical Project Management | IT | Cybersecurity | Data Analytics**
 
-M.S. in Information Technology (Cybersecurity), Capella University — September 2026.
-I bring 10+ years of healthcare operations, support, and data analytics experience
-into cybersecurity, with a focus on identity & access management, governance, and risk.
+I’m an IT professional with an M.S. in Information Technology (Cybersecurity) and a background spanning **project management, technical support, cybersecurity, business analysis, and data analytics**.
 
-🔐 **Focus:** IAM & access governance · security operations · GRC / audit readiness · analytics for risk
-📜 **Certifications:** CompTIA CySA+ · Security+ · Network+ · PMP · Lean Six Sigma Green Belt · AZ-900 · AI-900
-💼 **Currently:** Care Team Associate (Technical Support), Accenture
+My work focuses on connecting **people, processes, technology, and data** to solve problems and move technical initiatives forward — from managing project deliverables and improving workflows to analyzing data, strengthening access controls, and troubleshooting technical issues.
 
-## 📂 Portfolio
+### 🛠️ Areas of Focus
 
-🔧 **[IT Support & Cybersecurity Labs](https://github.com/kamirasherman/it-support-cybersecurity-labs)** — 7 hands-on labs & case studies: ServiceNow ticketing, Windows troubleshooting, Active Directory, firewall vulnerability assessment, IAM modernization, security proposal
+**Project Management:** Agile/Scrum · Project Planning · Risk & Dependency Management · Stakeholder Communication · Process Improvement
 
-🔐 **[IAM Access Governance Analytics](https://github.com/kamirasherman/iam-access-governance-analytics)** — access reviews, least-privilege analysis, and data-driven access decisions
+**IT & Cybersecurity:** IAM · Entra ID · Active Directory · Access Governance · Security Operations · Vulnerability Management · GRC
 
-📊 **[Expense Audit Analytics](https://github.com/kamirasherman/expense-audit-analytics)** — SQL-based audit detection: duplicates, outliers, threshold gaming, and anomaly findings with evidence → risk → recommendation
+**Analytics:** SQL · Power BI · Snowflake · Tableau · Data Analysis · Reporting · Risk & Audit Analytics
 
-📋 **[Project Management](https://github.com/kamirasherman/phish-guard-capstone)** — delivery, coordination, and process improvement work
-<!-- Replace the repo name above with your actual PM repo name if different -->
+### 📜 Certifications
+
+PMP · CompTIA CySA+ · Security+ · Network+ · Microsoft Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Lean Six Sigma Green Belt
+
+## 📂 Featured Projects
+
+🔐 **[Phish-Guard Cybersecurity Capstone](https://github.com/kamirasherman/phish-guard-capstone)**  
+Project management and delivery of a phishing simulation and security awareness platform, including Agile planning, backlog management, stakeholder coordination, risk tracking, and technical documentation.
+
+🔧 **[IT Support & Cybersecurity Labs](https://github.com/kamirasherman/it-support-cybersecurity-labs)**  
+Hands-on projects covering ServiceNow ticketing, Windows troubleshooting, Active Directory, vulnerability assessment, IAM, and security operations.
+
+🔑 **[IAM Access Governance Analytics](https://github.com/kamirasherman/iam-access-governance-analytics)**  
+Identity and access analysis focused on access reviews, least privilege, governance, and data-driven access decisions.
+
+📊 **[Expense Audit Analytics](https://github.com/kamirasherman/expense-audit-analytics)**  
+SQL-based analysis identifying duplicates, outliers, threshold patterns, and other audit risks, translating findings into actionable recommendations.
+
+## 🎯 What I'm Building Toward
+
+Roles where **technology, project delivery, security, and analytics intersect** — including Technical Project Management, IT Project Management, IAM, Cybersecurity, IT Business Analysis, and Technical/Data Analytics.
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/kamirasherman)
+**LinkedIn:** [Kamira Sherman](https://www.linkedin.com/in/kamirasherman/)
