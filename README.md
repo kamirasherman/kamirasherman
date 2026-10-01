@@ -20,7 +20,7 @@ PMP · CompTIA CySA+ · Security+ · Network+ · Microsoft Azure Fundamentals (A
 
 ## 📂 Featured Projects
 
-🔐 **[Phish-Guard Cybersecurity Capstone](https://github.com/kamirasherman/phish-guard-capstone)**  
+🔐 **[Phish-Guard Cybersecurity Capstone](https://github.com/kamirasherman/phish-guard)**  
 Project management and delivery of a phishing simulation and security awareness platform, including Agile planning, backlog management, stakeholder coordination, risk tracking, and technical documentation.
 
 🔧 **[IT Support & Cybersecurity Labs](https://github.com/kamirasherman/it-support-cybersecurity-labs)**  
